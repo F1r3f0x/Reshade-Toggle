@@ -1,0 +1,29 @@
+{
+    "games": [
+        {
+            "name": "Shadow Warrior 2",
+            "directory": "D:/Games/Shadow Warrior 2",
+            "renderer": "DX10+"
+        },
+        {
+            "name": "Divinity Original Sin 2",
+            "directory": "D:/Games/Divinity - Original Sin 2/bin",
+            "renderer": "DX10+"
+        },
+        {
+            "name": "DiRT Rally",
+            "directory": "D:/Games/Steam/steamapps/common/DiRT Rally",
+            "renderer": "DX10+"
+        },
+        {
+            "name": "Subnautica",
+            "directory": "D:/Games/Steam/steamapps/common/Subnautica",
+            "renderer": "DX10+"
+        },
+        {
+            "name": "Two Point Hospital",
+            "directory": "D:/Games/Steam/steamapps/common/TPH",
+            "renderer": "DX10+"
+        }
+    ]
+}
