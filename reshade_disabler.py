@@ -23,7 +23,7 @@ class Game:
 
 if __name__ == '__main__':
 
-    parser = argparse.ArgumentParser('Reshade Disabler', None, 'Disables or enables reshade to the games registered in a config file.')
+    parser = argparse.ArgumentParser('Reshade Toggle', None, 'Disables or enables reshade to the games registered in a config file.')
     parser.add_argument('operation', type=str, choices=['deactivate', 'activate'])
 
     args = parser.parse_args()
